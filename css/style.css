@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+.container {
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+
+input[type=file] {
+    margin-bottom: 15px;
+}
+
+nav {
+    background-color: #e38d02;
+
+    /*background-color: #336600;*/
+    font-family: 'Oswald', sans-serif;
+}
+
+footer, footer p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #001a00;
+    color: rgb(255,255,255);
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: small;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+footer {
+    opacity: 0.8;
+}
+
+
+
